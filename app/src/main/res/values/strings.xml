@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hint_username">Please input username</string>
+    <string name="hint_password">Please input password</string>
+    <string name="title_button_login">LOGIN</string>
+    <string name="title_button_register">Don\'t have account, Register now!</string>
+</resources>
